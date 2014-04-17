@@ -1,0 +1,2 @@
+Welcome to our readme document, this is a semester project for ITC401T 2014 1st Semester.
+Run "rake doc:app" to generate API documentation for your models, controllers, helpers, and libraries.
