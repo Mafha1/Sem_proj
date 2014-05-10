@@ -1,0 +1,20 @@
+
+
+one:
+  title: MyString
+  description: MyText
+  image_url: MyString
+  price: 9.99
+
+two:
+  title: MyString
+  description: MyText
+  image_url: MyString
+  price: 9.99
+
+  ruby:
+title: Mafha Shoes
+description:
+The Best Shoes in the world.
+price: 49.50
+image_url: ruby.png
